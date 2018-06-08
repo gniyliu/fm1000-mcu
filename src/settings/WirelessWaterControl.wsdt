@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>WirelessWaterControl/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>182</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>751</ColumnWidth1><ColumnWidth2>382</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build><TerminalIO/></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-31377-29701</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>WirelessWaterControl</ExpandedNode><ExpandedNode>WirelessWaterControl/e_src</ExpandedNode><ExpandedNode>WirelessWaterControl/e_src/e_main.c</ExpandedNode><ExpandedNode>WirelessWaterControl/library</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-18663-30553</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\e_src\e_main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>219</YPos2><SelStart2>6789</SelStart2><SelEnd2>6789</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\e_src\e_si4432.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>467</YPos2><SelStart2>14837</SelStart2><SelEnd2>14837</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\e_src\e_get_key.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>153</YPos2><SelStart2>3555</SelStart2><SelEnd2>3555</SelEnd2></Tab><ActiveTab>2</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01ee1038><key>iaridepm.enu1</key></Toolbar-01ee1038></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>505</Bottom><Right>273</Right><x>-2</x><y>-2</y><xscreen>82</xscreen><yscreen>65</yscreen><sizeHorzCX>60029</sizeHorzCX><sizeHorzCY>94752</sizeHorzCY><sizeVertCX>201318</sizeVertCX><sizeVertCY>739067</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>136</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>138</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>201166</sizeHorzCY><sizeVertCX>60029</sizeVertCX><sizeVertCY>94752</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
